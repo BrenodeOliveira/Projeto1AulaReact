@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mapshealth",
+    "slug": "mapshealth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
